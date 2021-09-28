@@ -1,3 +1,0 @@
-# friendly-potato
-A practice
-
